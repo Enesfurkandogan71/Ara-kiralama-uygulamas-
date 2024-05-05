@@ -1,1 +1,1 @@
-<img src="Araç Kiralama Sistemi.py" />
+<img src="Ekran görüntüsü araç kiralama.png" />
